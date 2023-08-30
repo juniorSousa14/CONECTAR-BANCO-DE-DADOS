@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<passageiros>
+
+  <passageiro>
+    <nome>João </nome>
+    <idade>30</idade>
+    <numero_ticket>1</numero_ticket>
+    <origem>Fim do Mundo</origem>
+    <destino>Onde Judas perdeu as botas</destino>
+  </passageiro>
+  
+  <passageiro>
+    <nome>Maria </nome>
+    <idade>25</idade>
+    <numero_ticket>2</numero_ticket>
+    <origem>lugar Nenhum</origem>
+    <destino>Onde Judas perdeu as meias </destino>
+  </passageiro>
+  
+  <passageiro>
+    <nome>Carlos </nome>
+    <idade>45</idade>
+    <numero_ticket>3</numero_ticket>
+    <origem>Longe de tudo </origem>
+    <destino>Onde Judas perdeu a cueca</destino>
+  </passageiro>
+  
+  <passageiro>
+    <nome>Ana </nome>
+    <idade>28</idade>
+    <numero_ticket>4</numero_ticket>
+    <origem>Quase no Fim do Mundo</origem>
+    <destino>Onde Judas perdeu a calça </destino>
+  </passageiro>
+  
+  <passageiro>
+    <nome>Luis </nome>
+    <idade>22</idade>
+    <numero_ticket>5</numero_ticket>
+    <origem>Meio do Nada</origem>
+    <destino>Onde Judas perdeu a camisa </destino>
+  </passageiro>
+  
+</passageiros>
