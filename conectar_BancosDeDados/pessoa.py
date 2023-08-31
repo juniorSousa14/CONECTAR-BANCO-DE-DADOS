@@ -1,3 +1,4 @@
+
 import psycopg2 as db
 import csv
 
@@ -119,8 +120,8 @@ class Pessoa(Connection):
 # Testar Instâncias
 if __name__ == "__main__":
     pessoa = Pessoa()
-    pessoa.insert("junior")
-    # pessoa.insert_csv("data.csv")
+    pessoa.insert("Miguel")
+   # pessoa.insert_csv("data.csv")
     # pessoa.delete(10)
     # pessoa.update(6, "Roberto")
 
